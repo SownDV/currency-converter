@@ -1,0 +1,33 @@
+
+
+{
+  "rates": [
+      {
+          "bank": "VIETCOM",
+          "brand": "",
+          "updated": 1579484760000,
+          "date": "20221205",
+          "version": "1",
+          "value": [
+              {
+                  "buy": "23,925.00",
+                  "order": "0",
+                  "name": "USD",
+                  "sell": "23,925.00",
+                  "transfer": "23,075.00",
+                  "id": "26771693",
+                  "day": "20221205",
+                  "code": "USD"
+              }
+          ],
+          "order": "0"
+      }
+  ],
+  "golds": [],
+  "time": 4,
+  "excute1_time": 4,
+  "excute2_time": 0,
+  "excute3_time": 0,
+  "count1": 18,
+  "count2": 0
+}
